@@ -38,7 +38,7 @@ const Login = () => {
   return (
     <div className="login-container">
       <header style={headerStyle}>
-        <h1>Event Management System</h1>
+        <h1>Event Management System by HARSHAVARDHAN HM</h1>
       </header>
 
       <form onSubmit={handleSubmit} style={formStyle}>
